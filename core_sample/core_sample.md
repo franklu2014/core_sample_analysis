@@ -1,3 +1,6 @@
+# Core sample analysis using Machine Learning and Neural Network models
+This project analyzes the raw images of core samples.  Because the Jupyter Notebook can be hard to load sometimes, here is a Markdown exported from the Notebook.  You can also view the [original Jupyter Notebook here](../core_sample.ipynb)
+
 ```python
 import numpy as np
 import os

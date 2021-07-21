@@ -1,2 +1,4 @@
 **/data/
 **/data_enhanced/
+**/.ipynb_checkpoints
+.vs/
